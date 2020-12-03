@@ -71,7 +71,7 @@ restart.visible = false;
 }
 
 function draw() {
-  background(180);
+  background("yellow");
   
  
   text("Score: "+ count, 500,50);
